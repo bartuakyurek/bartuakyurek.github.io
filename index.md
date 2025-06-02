@@ -2,20 +2,11 @@
 layout: default
 ---
 
+## About me
+I am a PhD student specializing in Geometry Processing under the supervision of Prof. Dr. Yusuf Sahillioğlu in Middle East Technical University. My interests also include fine and contemporary arts, particularly new media art. I am passionate about interdisciplinary work at the intersection of engineering, arts, and social sciences.
 
-## Education
-**Middle East Technical University**
+## [Short CV](https://bartuakyurek.github.io/short-cv/)
 
-PhD Candidate in Computer Engineering (Feb 2025 - Present)
-
-
-**Middle East Technical University**
-
-MSc in Computer Engineering (2021 - 2025)
-
-**Bilkent University**
-
-BSc in Electrical and Electronics Engineering (2017 - 2021)
 
 ## Publications
 
