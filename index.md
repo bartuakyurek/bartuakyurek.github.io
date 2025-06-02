@@ -103,6 +103,14 @@ end
 
 ### Definition lists can be used with HTML syntax.
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Teaser" style="width: 80px; height: auto; margin-right: 1rem; border-radius: 5px;">
+  <div>
+    <div><strong>Real-Time Secondary Animation with Spring Decomposed Skinning</strong></div>
+    <div>A framework to integrate secondary motion into skinning pipelines using simulated spring bones. Enables real-time dynamics without volumetric mesh input.</div>
+  </div>
+</div>
+
 <dl>
 <dt>![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) Name</dt>
 <dd>Godzilla</dd>
