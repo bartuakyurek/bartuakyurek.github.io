@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) Hello world!
 
 ### Large image
 
@@ -104,7 +104,7 @@ end
 ### Definition lists can be used with HTML syntax.
 
 <dl>
-<dt>Name</dt>
+<dt>![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) Name</dt>
 <dd>Godzilla</dd>
 <dt>Born</dt>
 <dd>1952</dd>
