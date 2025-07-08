@@ -3,9 +3,9 @@ layout: default
 ---
 
 ## About me
-I am a PhD student specializing in Geometry Processing under the supervision of Prof. Dr. Yusuf Sahillioğlu in Middle East Technical University. My interests also include fine and contemporary arts, particularly new media art. I am passionate about interdisciplinary work at the intersection of engineering, arts, and social sciences.
+I am a PhD student specializing in Geometry Processing under the supervision of Prof. Yusuf Sahillioğlu in Middle East Technical University. My interests also include fine and contemporary arts, particularly new media art. I am passionate about interdisciplinary work at the intersection of engineering, arts, and social sciences.
 
-## [Short CV](https://bartuakyurek.github.io/short-cv/)
+
 
 
 ## Publications
@@ -17,3 +17,6 @@ I am a PhD student specializing in Geometry Processing under the supervision of 
     <div>A framework to integrate secondary motion into skinning pipelines using simulated spring bones. Enables real-time dynamics without volumetric mesh input.</div>
   </div>
 </div>
+
+
+## [Short CV](https://bartuakyurek.github.io/short-cv/)
