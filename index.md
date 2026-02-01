@@ -21,4 +21,8 @@ I am a PhD student specializing in Geometry Processing under the supervision of 
 
 
 ## [Short CV](https://bartuakyurek.github.io/short-cv/)
+
+## [Portfolio](https://bartuakyurek.github.io/portfolio/)
+
+
 Note that resume above only briefly mentions my technical background. For more information about interdisciplinary work on arts and social sciences please contact me at bartuakyurek@outlook.com
